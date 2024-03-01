@@ -1,2 +1,2 @@
 # CNN-Lane_Classification
-CNN 모델을 이용한 점선과 실선의 차선 분류를 할 수 있는 알고리즘입니다.
+This project conducted solid line dotted line lane classification based on the CNN model conducted in November 2022
